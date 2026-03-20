@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,c.emby.pro
 DOMAIN-SUFFIX,bgka.me
 DOMAIN-KEYWORD,funmedia
 DOMAIN-SUFFIX,misaya.org
+DOMAIN-SUFFIX,zdz.plus
+DOMAIN-SUFFIX,bjdekk.cn
