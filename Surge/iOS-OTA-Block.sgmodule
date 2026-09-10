@@ -1,0 +1,7 @@
+#!name=iOS OTA Block
+#!desc=屏蔽 iPhone/iPad 的 iOS/iPadOS OTA 更新检测，尽量避免系统更新提醒
+#!category=Tsenh
+
+[Rule]
+DOMAIN,gdmf.apple.com,REJECT,pre-matching
+DOMAIN,mesu.apple.com,REJECT,pre-matching
